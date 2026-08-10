@@ -1,0 +1,3344 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "total_relationships": 238,
+    "relationship_types": [
+      "frequently_bought_together"
+    ],
+    "description": "Product co-occurrence relationships"
+  },
+  "relationships": [
+    {
+      "id": "rel_000001",
+      "text": "Nintendo Switch is frequently bought together with Nintendo Switch (co-occurrence score: 50000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000002",
+      "text": "Nintendo Switch is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 30000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000003",
+      "text": "Nintendo Switch is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 50000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000004",
+      "text": "Nintendo Switch is frequently bought together with Super Mario Odyssey (co-occurrence score: 60000 with a strength of 0.12 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 60000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000005",
+      "text": "Nintendo Switch is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 40000 with a strength of 0.08 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 40000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000006",
+      "text": "Nintendo Switch is frequently bought together with Mario Party Superstars (co-occurrence score: 20000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000007",
+      "text": "Nintendo Switch is frequently bought together with Sonic Generations (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000008",
+      "text": "Nintendo Switch is frequently bought together with Sonic Mania (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000009",
+      "text": "Nintendo Switch is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 100000 with a strength of 0.20 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 100000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000010",
+      "text": "Nintendo Switch is frequently bought together with Splatoon 3 (co-occurrence score: 30000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000011",
+      "text": "Nintendo Switch is frequently bought together with Pikmin 4 (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000012",
+      "text": "Nintendo Switch is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 50000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000013",
+      "text": "Nintendo Switch is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 20000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000014",
+      "text": "Nintendo Switch is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000015",
+      "text": "Nintendo Switch is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000016",
+      "text": "Nintendo Switch is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0001",
+        "product_a_name": "Nintendo Switch",
+        "product_a_category": "Console",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000017",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Nintendo Switch (co-occurrence score: 30000 with a strength of 0.12 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000018",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 100000 with a strength of 0.40 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 100000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000019",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 20000 with a strength of 0.08 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000020",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Super Mario Odyssey (co-occurrence score: 15000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000021",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 10000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000022",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Mario Party Superstars (co-occurrence score: 5000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000023",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Sonic Generations (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000024",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Sonic Mania (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000025",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 30000 with a strength of 0.12 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000026",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Splatoon 3 (co-occurrence score: 20000 with a strength of 0.08 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000027",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Pikmin 4 (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000028",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 5000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000029",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000030",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000031",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000032",
+      "text": "Zelda: Breath of the Wild is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0002",
+        "product_a_name": "Zelda: Breath of the Wild",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000033",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Nintendo Switch (co-occurrence score: 50000 with a strength of 0.14 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000034",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 20000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000035",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 150000 with a strength of 0.43 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 150000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000036",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Super Mario Odyssey (co-occurrence score: 25000 with a strength of 0.07 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 25000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000037",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 15000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000038",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Mario Party Superstars (co-occurrence score: 10000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000039",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Sonic Generations (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000040",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Sonic Mania (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000041",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 30000 with a strength of 0.09 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000042",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Splatoon 3 (co-occurrence score: 20000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000043",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Pikmin 4 (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000044",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 10000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000045",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000046",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000047",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000048",
+      "text": "Zelda: Tears of the Kingdom is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0003",
+        "product_a_name": "Zelda: Tears of the Kingdom",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000049",
+      "text": "Super Mario Odyssey is frequently bought together with Nintendo Switch (co-occurrence score: 60000 with a strength of 0.15 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 60000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000050",
+      "text": "Super Mario Odyssey is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 15000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000051",
+      "text": "Super Mario Odyssey is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 25000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 25000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000052",
+      "text": "Super Mario Odyssey is frequently bought together with Super Mario Odyssey (co-occurrence score: 200000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 200000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000053",
+      "text": "Super Mario Odyssey is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 30000 with a strength of 0.07 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000054",
+      "text": "Super Mario Odyssey is frequently bought together with Mario Party Superstars (co-occurrence score: 20000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000055",
+      "text": "Super Mario Odyssey is frequently bought together with Sonic Generations (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000056",
+      "text": "Super Mario Odyssey is frequently bought together with Sonic Mania (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000057",
+      "text": "Super Mario Odyssey is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 25000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 25000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000058",
+      "text": "Super Mario Odyssey is frequently bought together with Splatoon 3 (co-occurrence score: 10000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000059",
+      "text": "Super Mario Odyssey is frequently bought together with Pikmin 4 (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000060",
+      "text": "Super Mario Odyssey is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000061",
+      "text": "Super Mario Odyssey is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0004",
+        "product_a_name": "Super Mario Odyssey",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000062",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Nintendo Switch (co-occurrence score: 40000 with a strength of 0.13 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 40000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000063",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 10000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000064",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 15000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000065",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Super Mario Odyssey (co-occurrence score: 30000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000066",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 150000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 150000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000067",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Mario Party Superstars (co-occurrence score: 10000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000068",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Sonic Generations (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000069",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Sonic Mania (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000070",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 13000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 13000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000071",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Splatoon 3 (co-occurrence score: 15000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000072",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Pikmin 4 (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000073",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 5000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000074",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000075",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000076",
+      "text": "Mario Kart 8 Deluxe is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0005",
+        "product_a_name": "Mario Kart 8 Deluxe",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000077",
+      "text": "Mario Party Superstars is frequently bought together with Nintendo Switch (co-occurrence score: 20000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000078",
+      "text": "Mario Party Superstars is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 5000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000079",
+      "text": "Mario Party Superstars is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 10000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000080",
+      "text": "Mario Party Superstars is frequently bought together with Super Mario Odyssey (co-occurrence score: 20000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000081",
+      "text": "Mario Party Superstars is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 10000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000082",
+      "text": "Mario Party Superstars is frequently bought together with Mario Party Superstars (co-occurrence score: 100000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 100000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000083",
+      "text": "Mario Party Superstars is frequently bought together with Sonic Generations (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000084",
+      "text": "Mario Party Superstars is frequently bought together with Sonic Mania (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000085",
+      "text": "Mario Party Superstars is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 15000 with a strength of 0.07 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000086",
+      "text": "Mario Party Superstars is frequently bought together with Splatoon 3 (co-occurrence score: 10000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000087",
+      "text": "Mario Party Superstars is frequently bought together with Pikmin 4 (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000088",
+      "text": "Mario Party Superstars is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 5000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000089",
+      "text": "Mario Party Superstars is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000090",
+      "text": "Mario Party Superstars is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000091",
+      "text": "Mario Party Superstars is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0006",
+        "product_a_name": "Mario Party Superstars",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000092",
+      "text": "Sonic Generations is frequently bought together with Nintendo Switch (co-occurrence score: 10000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000093",
+      "text": "Sonic Generations is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000094",
+      "text": "Sonic Generations is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 5000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000095",
+      "text": "Sonic Generations is frequently bought together with Super Mario Odyssey (co-occurrence score: 5000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000096",
+      "text": "Sonic Generations is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000097",
+      "text": "Sonic Generations is frequently bought together with Mario Party Superstars (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000098",
+      "text": "Sonic Generations is frequently bought together with Sonic Generations (co-occurrence score: 90000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 90000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000099",
+      "text": "Sonic Generations is frequently bought together with Sonic Mania (co-occurrence score: 10000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000100",
+      "text": "Sonic Generations is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 10000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000101",
+      "text": "Sonic Generations is frequently bought together with Splatoon 3 (co-occurrence score: 10000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000102",
+      "text": "Sonic Generations is frequently bought together with Pikmin 4 (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000103",
+      "text": "Sonic Generations is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 3000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000104",
+      "text": "Sonic Generations is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000105",
+      "text": "Sonic Generations is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000106",
+      "text": "Sonic Generations is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000107",
+      "text": "Sonic Generations is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0007",
+        "product_a_name": "Sonic Generations",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000108",
+      "text": "Sonic Mania is frequently bought together with Nintendo Switch (co-occurrence score: 10000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000109",
+      "text": "Sonic Mania is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000110",
+      "text": "Sonic Mania is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 5000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000111",
+      "text": "Sonic Mania is frequently bought together with Super Mario Odyssey (co-occurrence score: 5000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000112",
+      "text": "Sonic Mania is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000113",
+      "text": "Sonic Mania is frequently bought together with Mario Party Superstars (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000114",
+      "text": "Sonic Mania is frequently bought together with Sonic Generations (co-occurrence score: 10000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000115",
+      "text": "Sonic Mania is frequently bought together with Sonic Mania (co-occurrence score: 125000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 125000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000116",
+      "text": "Sonic Mania is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 20000 with a strength of 0.08 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000117",
+      "text": "Sonic Mania is frequently bought together with Splatoon 3 (co-occurrence score: 15000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000118",
+      "text": "Sonic Mania is frequently bought together with Pikmin 4 (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000119",
+      "text": "Sonic Mania is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 3000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000120",
+      "text": "Sonic Mania is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 2000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000121",
+      "text": "Sonic Mania is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000122",
+      "text": "Sonic Mania is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000123",
+      "text": "Sonic Mania is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 1000 with a strength of 0.00 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0008",
+        "product_a_name": "Sonic Mania",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000124",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Nintendo Switch (co-occurrence score: 100000 with a strength of 0.12 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 100000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000125",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 30000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000126",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 30000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000127",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Super Mario Odyssey (co-occurrence score: 25000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 25000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000128",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 13000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 13000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000129",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Mario Party Superstars (co-occurrence score: 15000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000130",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Sonic Generations (co-occurrence score: 10000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000131",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Sonic Mania (co-occurrence score: 20000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000132",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 400000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 400000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000133",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Splatoon 3 (co-occurrence score: 50000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000134",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Pikmin 4 (co-occurrence score: 10000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000135",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 100000 with a strength of 0.12 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 100000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000136",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 50000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000137",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 10000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000138",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 10000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000139",
+      "text": "Animal Crossing: New Horizons is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 10000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0009",
+        "product_a_name": "Animal Crossing: New Horizons",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000140",
+      "text": "Splatoon 3 is frequently bought together with Nintendo Switch (co-occurrence score: 30000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000141",
+      "text": "Splatoon 3 is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 20000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000142",
+      "text": "Splatoon 3 is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 20000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 20000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000143",
+      "text": "Splatoon 3 is frequently bought together with Super Mario Odyssey (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000144",
+      "text": "Splatoon 3 is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 15000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000145",
+      "text": "Splatoon 3 is frequently bought together with Mario Party Superstars (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000146",
+      "text": "Splatoon 3 is frequently bought together with Sonic Generations (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000147",
+      "text": "Splatoon 3 is frequently bought together with Sonic Mania (co-occurrence score: 15000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 15000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000148",
+      "text": "Splatoon 3 is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 50000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000149",
+      "text": "Splatoon 3 is frequently bought together with Splatoon 3 (co-occurrence score: 250000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 250000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000150",
+      "text": "Splatoon 3 is frequently bought together with Pikmin 4 (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000151",
+      "text": "Splatoon 3 is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 50000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 50000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000152",
+      "text": "Splatoon 3 is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 30000 with a strength of 0.06 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 30000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000153",
+      "text": "Splatoon 3 is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 10000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000154",
+      "text": "Splatoon 3 is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000155",
+      "text": "Splatoon 3 is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 5000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0010",
+        "product_a_name": "Splatoon 3",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000156",
+      "text": "Pikmin 4 is frequently bought together with Nintendo Switch (co-occurrence score: 5000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000157",
+      "text": "Pikmin 4 is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000158",
+      "text": "Pikmin 4 is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000159",
+      "text": "Pikmin 4 is frequently bought together with Super Mario Odyssey (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000160",
+      "text": "Pikmin 4 is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000161",
+      "text": "Pikmin 4 is frequently bought together with Mario Party Superstars (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000162",
+      "text": "Pikmin 4 is frequently bought together with Sonic Generations (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000163",
+      "text": "Pikmin 4 is frequently bought together with Sonic Mania (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000164",
+      "text": "Pikmin 4 is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 10000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000165",
+      "text": "Pikmin 4 is frequently bought together with Splatoon 3 (co-occurrence score: 10000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000166",
+      "text": "Pikmin 4 is frequently bought together with Pikmin 4 (co-occurrence score: 50000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 50000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000167",
+      "text": "Pikmin 4 is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000168",
+      "text": "Pikmin 4 is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000169",
+      "text": "Pikmin 4 is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000170",
+      "text": "Pikmin 4 is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0011",
+        "product_a_name": "Pikmin 4",
+        "product_a_category": "Games",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000171",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Nintendo Switch (co-occurrence score: 50000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 50000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000172",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 5000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000173",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 10000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000174",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Super Mario Odyssey (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000175",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 5000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000176",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Mario Party Superstars (co-occurrence score: 5000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000177",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Sonic Generations (co-occurrence score: 3000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000178",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Sonic Mania (co-occurrence score: 3000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000179",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 100000 with a strength of 1.00 which is very strong)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 100000.0,
+        "strength": "very strong"
+      }
+    },
+    {
+      "id": "rel_000180",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Splatoon 3 (co-occurrence score: 50000 with a strength of 0.50 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 50000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000181",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Pikmin 4 (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000182",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 30000 with a strength of 0.30 which is medium)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 30000.0,
+        "strength": "medium"
+      }
+    },
+    {
+      "id": "rel_000183",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 10000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000184",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 5000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000185",
+      "text": "Nintendo Switch Pro Controller is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 2000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0012",
+        "product_a_name": "Nintendo Switch Pro Controller",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000186",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Nintendo Switch (co-occurrence score: 20000 with a strength of 0.25 which is medium)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 20000.0,
+        "strength": "medium"
+      }
+    },
+    {
+      "id": "rel_000187",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 3000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000188",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 3000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000189",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Super Mario Odyssey (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0004",
+        "product_b_name": "Super Mario Odyssey",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000190",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 3000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000191",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Mario Party Superstars (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000192",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Sonic Generations (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000193",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Sonic Mania (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000194",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 50000 with a strength of 0.62 which is very strong)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 50000.0,
+        "strength": "very strong"
+      }
+    },
+    {
+      "id": "rel_000195",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Splatoon 3 (co-occurrence score: 30000 with a strength of 0.38 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 30000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000196",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Pikmin 4 (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000197",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 10000 with a strength of 0.12 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000198",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 20000 with a strength of 0.25 which is medium)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 20000.0,
+        "strength": "medium"
+      }
+    },
+    {
+      "id": "rel_000199",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 3000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000200",
+      "text": "Joy-Con Controllers (Pair) is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 1000 with a strength of 0.01 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0013",
+        "product_a_name": "Joy-Con Controllers (Pair)",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000201",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Nintendo Switch (co-occurrence score: 10000 with a strength of 0.17 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000202",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000203",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000204",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000205",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Mario Party Superstars (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000206",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Sonic Generations (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000207",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Sonic Mania (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000208",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 10000 with a strength of 0.17 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000209",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Splatoon 3 (co-occurrence score: 10000 with a strength of 0.17 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000210",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Pikmin 4 (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000211",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 5000 with a strength of 0.08 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000212",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 3000 with a strength of 0.05 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 3000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000213",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 10000 with a strength of 0.17 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000214",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 2000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000215",
+      "text": "Nintendo Switch Dock Set is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0014",
+        "product_a_name": "Nintendo Switch Dock Set",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000216",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Nintendo Switch (co-occurrence score: 10000 with a strength of 0.20 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000217",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 2000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000218",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 2000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000219",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Mario Kart 8 Deluxe (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0005",
+        "product_b_name": "Mario Kart 8 Deluxe",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000220",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Mario Party Superstars (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0006",
+        "product_b_name": "Mario Party Superstars",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000221",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Sonic Generations (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000222",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Sonic Mania (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000223",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 10000 with a strength of 0.20 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000224",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Splatoon 3 (co-occurrence score: 5000 with a strength of 0.10 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000225",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Pikmin 4 (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0011",
+        "product_b_name": "Pikmin 4",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000226",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Nintendo Switch Pro Controller (co-occurrence score: 2000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0012",
+        "product_b_name": "Nintendo Switch Pro Controller",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000227",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Joy-Con Controllers (Pair) (co-occurrence score: 1000 with a strength of 0.02 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0013",
+        "product_b_name": "Joy-Con Controllers (Pair)",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000228",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 2000 with a strength of 0.04 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 2000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000229",
+      "text": "Nintendo Switch Carrying Case is frequently bought together with Nintendo Switch Carrying Case (co-occurrence score: 20000 with a strength of 0.40 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0015",
+        "product_a_name": "Nintendo Switch Carrying Case",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0015",
+        "product_b_name": "Nintendo Switch Carrying Case",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 20000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000230",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Nintendo Switch (co-occurrence score: 5000 with a strength of 0.17 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0001",
+        "product_b_name": "Nintendo Switch",
+        "product_b_category": "Console",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000231",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Zelda: Breath of the Wild (co-occurrence score: 1000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0002",
+        "product_b_name": "Zelda: Breath of the Wild",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000232",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Zelda: Tears of the Kingdom (co-occurrence score: 1000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0003",
+        "product_b_name": "Zelda: Tears of the Kingdom",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000233",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Sonic Generations (co-occurrence score: 1000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0007",
+        "product_b_name": "Sonic Generations",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000234",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Sonic Mania (co-occurrence score: 1000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0008",
+        "product_b_name": "Sonic Mania",
+        "product_b_category": "Games",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000235",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Animal Crossing: New Horizons (co-occurrence score: 10000 with a strength of 0.33 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0009",
+        "product_b_name": "Animal Crossing: New Horizons",
+        "product_b_category": "Games",
+        "cooccurrence_score": 10000.0,
+        "strength": "strong"
+      }
+    },
+    {
+      "id": "rel_000236",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Splatoon 3 (co-occurrence score: 5000 with a strength of 0.17 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0010",
+        "product_b_name": "Splatoon 3",
+        "product_b_category": "Games",
+        "cooccurrence_score": 5000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000237",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Nintendo Switch Dock Set (co-occurrence score: 1000 with a strength of 0.03 which is weak)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0014",
+        "product_b_name": "Nintendo Switch Dock Set",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 1000.0,
+        "strength": "weak"
+      }
+    },
+    {
+      "id": "rel_000238",
+      "text": "Nintendo Switch Screen Protector is frequently bought together with Nintendo Switch Screen Protector (co-occurrence score: 10000 with a strength of 0.33 which is strong)",
+      "metadata": {
+        "product_a_id": "prod_0016",
+        "product_a_name": "Nintendo Switch Screen Protector",
+        "product_a_category": "Accessories",
+        "product_b_id": "prod_0016",
+        "product_b_name": "Nintendo Switch Screen Protector",
+        "product_b_category": "Accessories",
+        "cooccurrence_score": 10000.0,
+        "strength": "strong"
+      }
+    }
+  ]
+}

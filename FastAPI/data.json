@@ -1,0 +1,115 @@
+[
+{
+"id": "doc-001",
+"title": "Deployment Rollback Procedure",
+"department": "Operations",
+"permissions": ["ops", "admin"],
+"content": "If a production deployment introduces critical failures, the rollback procedure must be initiated immediately. Validate deployment version history, notify the operations lead, and restore the previous stable release. All rollback actions must be logged for audit purposes."
+},
+
+{
+
+"id": "doc-002",
+"title": "Production Incident Escalation Policy",
+"department": "Operations",
+"permissions": ["ops", "support", "admin"],
+"content": "Severity 1 incidents affecting production systems require immediate escalation to the on-call engineering manager. Incident timelines, remediation actions, and root cause analysis must be documented within 24 hours."
+},
+
+{
+
+"id": "doc-003",
+"title": "Customer Data Retention Guidelines",
+"department": "Compliance",
+"permissions": ["compliance", "admin"],
+"content": "Customer personal data must be retained according to GDPR requirements. Sensitive records must be encrypted at rest and access must be restricted to authorized personnel only. Data retention exceptions require compliance approval."
+},
+
+{
+"id": "doc-004",
+"title": "AI Assistant Response Validation",
+
+"department": "AI Engineering",
+
+"permissions": ["ai", "admin"],
+
+"content": "AI generated responses must include source traceability whenever enterprise documents are used for grounding. Responses containing low confidence retrieval results should be flagged for human review before external usage."
+
+},
+
+{
+
+"id": "doc-005",
+
+"title": "SharePoint Document Synchronization",
+
+"department": "Platform Engineering",
+
+"permissions": ["platform", "admin"],
+
+"content": "The synchronization service imports documents from SharePoint libraries every 30 minutes. Metadata, permissions, and document ownership information must remain consistent across ingestion pipelines."
+
+},
+
+{
+
+"id": "doc-006",
+
+"title": "Manufacturing Predictive Maintenance Overview",
+
+"department": "Industrial AI",
+"permissions": ["industrial", "ai", "admin"],
+"content": "Predictive maintenance models analyze equipment telemetry to detect early failure indicators. Maintenance recommendations should prioritize production continuity and minimize downtime during critical manufacturing periods."
+},
+
+{
+"id": "doc-007",
+"title": "Authentication and API Access Standards",
+"department": "Security",
+"permissions": ["security", "platform", "admin"],
+"content": "All internal APIs must use token-based authentication with role-based access control. Service accounts should follow least privilege principles and API keys must never be stored in source code repositories."
+},
+
+{
+"id": "doc-008",
+"title": "Production Deployment Checklist",
+"department": "Platform Engineering",
+"permissions": ["platform", "ops", "admin"],
+"content": "Before production deployment, teams must validate automated tests, security scans, infrastructure health checks, and rollback readiness. Deployment approvals require successful CI/CD pipeline execution."
+},
+
+{
+"id": "doc-009",
+"title": "Enterprise AI Search Architecture",
+"department": "AI Engineering",
+"permissions": ["ai", "platform", "admin"],
+"content": "Enterprise search services combine metadata filtering, semantic retrieval, and source ranking to improve retrieval quality. Vector search should respect document-level permissions before returning results to users."
+},
+
+{
+"id": "doc-010",
+"title": "HR Remote Work Policy",
+"department": "HR",
+"permissions": ["hr", "admin"],
+"content": "Employees approved for remote work must comply with security and availability requirements. Managers are responsible for validating equipment readiness and communication expectations."
+},
+
+{
+"id": "doc-011",
+"title": "AI Service Observability Guidelines",
+"department": "AI Engineering",
+"permissions": ["ai", "ops", "admin"],
+"content": "AI services must implement structured logging, request tracing, latency monitoring, and retrieval diagnostics. Failures involving grounding or retrieval inconsistencies should trigger operational alerts."
+},
+
+{
+"id": "doc-012",
+"title": "Supplier Quality Anomaly Detection",
+"department": "Industrial AI",
+"permissions": ["industrial", "compliance", "admin"],
+"content": "Anomaly detection pipelines monitor supplier quality metrics to identify abnormal production patterns. Quality alerts must include traceable supporting data and escalation recommendations."
+}
+
+]
+
+ 

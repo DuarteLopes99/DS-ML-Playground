@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.venv/
+my_env_nadara/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Vector store / generated data
+chroma_db/
+
+# Archives and Office lock files
+*.zip
+~$*
+
+# OS
+.DS_Store

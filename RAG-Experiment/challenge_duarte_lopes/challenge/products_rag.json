@@ -1,0 +1,470 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created_at": "2025-12-21T18:51:54.676960",
+    "total_products": 16,
+    "embedding_model": "all-MiniLM-L6-v2",
+    "description": "Nintendo products catalog for RAG system"
+  },
+  "products": [
+    {
+      "id": "prod_0001",
+      "text": "Product: Nintendo Switch. Category: Console. Type: Unavailable. Franchise: Unavailable. Age rating: Unavailable. Release date: Unavailable. Total sales: 500,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Nintendo Switch",
+        "product_id": 1,
+        "category": "Console",
+        "main_category": "Console",
+        "type": null,
+        "franchise": null,
+        "min_age": null,
+        "release_date": null,
+        "times_sold": 500000,
+        "times_sold_Store_A": 200000,
+        "times_sold_Store_B": 150000,
+        "times_sold_Store_C": 150000,
+        "popularity_rank": 2,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 500000,
+        "is_available": true,
+        "store_strength_Store_A": 0.4,
+        "store_strength_Store_B": 0.3,
+        "store_strength_Store_C": 0.3
+      }
+    },
+    {
+      "id": "prod_0002",
+      "text": "Product: Zelda: Breath of the Wild. Category: Games. Type: Adventure. Franchise: The Legend of Zelda. Age rating: 12. Released: 2017-03-03. Total sales: 250,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Zelda: Breath of the Wild",
+        "product_id": 2,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Adventure",
+        "franchise": "The Legend of Zelda",
+        "min_age": 12,
+        "release_date": "2017-03-03",
+        "times_sold": 250000,
+        "times_sold_Store_A": 120000,
+        "times_sold_Store_B": 80000,
+        "times_sold_Store_C": 50000,
+        "popularity_rank": 7,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 250000,
+        "is_available": true,
+        "store_strength_Store_A": 0.48,
+        "store_strength_Store_B": 0.32,
+        "store_strength_Store_C": 0.2
+      }
+    },
+    {
+      "id": "prod_0003",
+      "text": "Product: Zelda: Tears of the Kingdom. Category: Games. Type: Adventure. Franchise: The Legend of Zelda. Age rating: 12. Released: 2023-05-12. Total sales: 350,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Zelda: Tears of the Kingdom",
+        "product_id": 3,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Adventure",
+        "franchise": "The Legend of Zelda",
+        "min_age": 12,
+        "release_date": "2023-05-12",
+        "times_sold": 350000,
+        "times_sold_Store_A": 200000,
+        "times_sold_Store_B": 100000,
+        "times_sold_Store_C": 50000,
+        "popularity_rank": 5,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 350000,
+        "is_available": true,
+        "store_strength_Store_A": 0.5714285714285714,
+        "store_strength_Store_B": 0.2857142857142857,
+        "store_strength_Store_C": 0.14285714285714285
+      }
+    },
+    {
+      "id": "prod_0004",
+      "text": "Product: Super Mario Odyssey. Category: Games. Type: Platformer. Franchise: Super Mario. Age rating: 7. Released: 2017-10-27. Total sales: 400,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Super Mario Odyssey",
+        "product_id": 4,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Platformer",
+        "franchise": "Super Mario",
+        "min_age": 7,
+        "release_date": "2017-10-27",
+        "times_sold": 400000,
+        "times_sold_Store_A": 150000,
+        "times_sold_Store_B": 100000,
+        "times_sold_Store_C": 150000,
+        "popularity_rank": 4,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 400000,
+        "is_available": true,
+        "store_strength_Store_A": 0.375,
+        "store_strength_Store_B": 0.25,
+        "store_strength_Store_C": 0.375
+      }
+    },
+    {
+      "id": "prod_0005",
+      "text": "Product: Mario Kart 8 Deluxe. Category: Games. Type: Racing. Franchise: Super Mario. Age rating: 6. Released: 2017-04-28. Total sales: 300,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Mario Kart 8 Deluxe",
+        "product_id": 5,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Racing",
+        "franchise": "Super Mario",
+        "min_age": 6,
+        "release_date": "2017-04-28",
+        "times_sold": 300000,
+        "times_sold_Store_A": 100000,
+        "times_sold_Store_B": 100000,
+        "times_sold_Store_C": 100000,
+        "popularity_rank": 6,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 300000,
+        "is_available": true,
+        "store_strength_Store_A": 0.3333333333333333,
+        "store_strength_Store_B": 0.3333333333333333,
+        "store_strength_Store_C": 0.3333333333333333
+      }
+    },
+    {
+      "id": "prod_0006",
+      "text": "Product: Mario Party Superstars. Category: Games. Type: Party. Franchise: Super Mario. Age rating: 6. Released: 2021-10-29. Total sales: 200,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Mario Party Superstars",
+        "product_id": 6,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Party",
+        "franchise": "Super Mario",
+        "min_age": 6,
+        "release_date": "2021-10-29",
+        "times_sold": 200000,
+        "times_sold_Store_A": 80000,
+        "times_sold_Store_B": 70000,
+        "times_sold_Store_C": 50000,
+        "popularity_rank": 9,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 200000,
+        "is_available": true,
+        "store_strength_Store_A": 0.4,
+        "store_strength_Store_B": 0.35,
+        "store_strength_Store_C": 0.25
+      }
+    },
+    {
+      "id": "prod_0007",
+      "text": "Product: Sonic Generations. Category: Games. Type: Platformer. Franchise: Sonic. Age rating: 10. Released: 2011-11-01. Total sales: 180,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Sonic Generations",
+        "product_id": 7,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Platformer",
+        "franchise": "Sonic",
+        "min_age": 10,
+        "release_date": "2011-11-01",
+        "times_sold": 180000,
+        "times_sold_Store_A": 60000,
+        "times_sold_Store_B": 60000,
+        "times_sold_Store_C": 60000,
+        "popularity_rank": 10,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 180000,
+        "is_available": true,
+        "store_strength_Store_A": 0.3333333333333333,
+        "store_strength_Store_B": 0.3333333333333333,
+        "store_strength_Store_C": 0.3333333333333333
+      }
+    },
+    {
+      "id": "prod_0008",
+      "text": "Product: Sonic Mania. Category: Games. Type: Platformer. Franchise: Sonic. Age rating: 10. Released: 2017-08-15. Total sales: 250,000. Available at: Store A, Store B.",
+      "metadata": {
+        "name": "Sonic Mania",
+        "product_id": 8,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Platformer",
+        "franchise": "Sonic",
+        "min_age": 10,
+        "release_date": "2017-08-15",
+        "times_sold": 250000,
+        "times_sold_Store_A": 150000,
+        "times_sold_Store_B": 100000,
+        "times_sold_Store_C": 0,
+        "popularity_rank": 8,
+        "available_stores": [
+          "Store A",
+          "Store B"
+        ],
+        "total_stock": 250000,
+        "is_available": true,
+        "store_strength_Store_A": 0.6,
+        "store_strength_Store_B": 0.4,
+        "store_strength_Store_C": 0.0
+      }
+    },
+    {
+      "id": "prod_0009",
+      "text": "Product: Animal Crossing: New Horizons. Category: Games. Type: Simulation. Franchise: Animal Crossing. Age rating: 3. Released: 2020-03-20. Total sales: 800,000. Available at: Store A, Store B.",
+      "metadata": {
+        "name": "Animal Crossing: New Horizons",
+        "product_id": 9,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Simulation",
+        "franchise": "Animal Crossing",
+        "min_age": 3,
+        "release_date": "2020-03-20",
+        "times_sold": 800000,
+        "times_sold_Store_A": 500000,
+        "times_sold_Store_B": 300000,
+        "times_sold_Store_C": 0,
+        "popularity_rank": 1,
+        "available_stores": [
+          "Store A",
+          "Store B"
+        ],
+        "total_stock": 800000,
+        "is_available": true,
+        "store_strength_Store_A": 0.625,
+        "store_strength_Store_B": 0.375,
+        "store_strength_Store_C": 0.0
+      }
+    },
+    {
+      "id": "prod_0010",
+      "text": "Product: Splatoon 3. Category: Games. Type: Shooter. Franchise: Splatoon. Age rating: 10. Released: 2022-09-09. Total sales: 500,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Splatoon 3",
+        "product_id": 10,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Shooter",
+        "franchise": "Splatoon",
+        "min_age": 10,
+        "release_date": "2022-09-09",
+        "times_sold": 500000,
+        "times_sold_Store_A": 200000,
+        "times_sold_Store_B": 150000,
+        "times_sold_Store_C": 150000,
+        "popularity_rank": 3,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 500000,
+        "is_available": true,
+        "store_strength_Store_A": 0.4,
+        "store_strength_Store_B": 0.3,
+        "store_strength_Store_C": 0.3
+      }
+    },
+    {
+      "id": "prod_0011",
+      "text": "Product: Pikmin 4. Category: Games. Type: Strategy. Franchise: Pikmin. Age rating: 7. Released: 2023-07-21. Total sales: 100,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Pikmin 4",
+        "product_id": 11,
+        "category": "Game",
+        "main_category": "Games",
+        "type": "Strategy",
+        "franchise": "Pikmin",
+        "min_age": 7,
+        "release_date": "2023-07-21",
+        "times_sold": 100000,
+        "times_sold_Store_A": 40000,
+        "times_sold_Store_B": 30000,
+        "times_sold_Store_C": 30000,
+        "popularity_rank": 11,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 100000,
+        "is_available": true,
+        "store_strength_Store_A": 0.4,
+        "store_strength_Store_B": 0.3,
+        "store_strength_Store_C": 0.3
+      }
+    },
+    {
+      "id": "prod_0012",
+      "text": "Product: Nintendo Switch Pro Controller. Category: Accessories. Type: Accessory. Franchise: Unavailable. Age rating: Unavailable. Release date: Unavailable. Total sales: 100,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Nintendo Switch Pro Controller",
+        "product_id": 12,
+        "category": "Controller",
+        "main_category": "Accessories",
+        "type": "Accessory",
+        "franchise": null,
+        "min_age": null,
+        "release_date": null,
+        "times_sold": 100000,
+        "times_sold_Store_A": 40000,
+        "times_sold_Store_B": 30000,
+        "times_sold_Store_C": 30000,
+        "popularity_rank": 12,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 100000,
+        "is_available": true,
+        "store_strength_Store_A": 0.4,
+        "store_strength_Store_B": 0.3,
+        "store_strength_Store_C": 0.3
+      }
+    },
+    {
+      "id": "prod_0013",
+      "text": "Product: Joy-Con Controllers (Pair). Category: Accessories. Type: Accessory. Franchise: Unavailable. Age rating: Unavailable. Release date: Unavailable. Total sales: 80,000. Available at: Store A, Store C.",
+      "metadata": {
+        "name": "Joy-Con Controllers (Pair)",
+        "product_id": 13,
+        "category": "Controller",
+        "main_category": "Accessories",
+        "type": "Accessory",
+        "franchise": null,
+        "min_age": null,
+        "release_date": null,
+        "times_sold": 80000,
+        "times_sold_Store_A": 40000,
+        "times_sold_Store_B": 0,
+        "times_sold_Store_C": 40000,
+        "popularity_rank": 13,
+        "available_stores": [
+          "Store A",
+          "Store C"
+        ],
+        "total_stock": 80000,
+        "is_available": true,
+        "store_strength_Store_A": 0.5,
+        "store_strength_Store_B": 0.0,
+        "store_strength_Store_C": 0.5
+      }
+    },
+    {
+      "id": "prod_0014",
+      "text": "Product: Nintendo Switch Dock Set. Category: Accessories. Type: Accessory. Franchise: Unavailable. Age rating: Unavailable. Release date: Unavailable. Total sales: 60,000. Available at: Store A, Store B, Store C.",
+      "metadata": {
+        "name": "Nintendo Switch Dock Set",
+        "product_id": 14,
+        "category": "Dock",
+        "main_category": "Accessories",
+        "type": "Accessory",
+        "franchise": null,
+        "min_age": null,
+        "release_date": null,
+        "times_sold": 60000,
+        "times_sold_Store_A": 20000,
+        "times_sold_Store_B": 20000,
+        "times_sold_Store_C": 20000,
+        "popularity_rank": 14,
+        "available_stores": [
+          "Store A",
+          "Store B",
+          "Store C"
+        ],
+        "total_stock": 60000,
+        "is_available": true,
+        "store_strength_Store_A": 0.3333333333333333,
+        "store_strength_Store_B": 0.3333333333333333,
+        "store_strength_Store_C": 0.3333333333333333
+      }
+    },
+    {
+      "id": "prod_0015",
+      "text": "Product: Nintendo Switch Carrying Case. Category: Accessories. Type: Accessory. Franchise: Unavailable. Age rating: Unavailable. Release date: Unavailable. Total sales: 50,000. Available at: Store A, Store C.",
+      "metadata": {
+        "name": "Nintendo Switch Carrying Case",
+        "product_id": 15,
+        "category": "Case",
+        "main_category": "Accessories",
+        "type": "Accessory",
+        "franchise": null,
+        "min_age": null,
+        "release_date": null,
+        "times_sold": 50000,
+        "times_sold_Store_A": 20000,
+        "times_sold_Store_B": 0,
+        "times_sold_Store_C": 30000,
+        "popularity_rank": 15,
+        "available_stores": [
+          "Store A",
+          "Store C"
+        ],
+        "total_stock": 50000,
+        "is_available": true,
+        "store_strength_Store_A": 0.4,
+        "store_strength_Store_B": 0.0,
+        "store_strength_Store_C": 0.6
+      }
+    },
+    {
+      "id": "prod_0016",
+      "text": "Product: Nintendo Switch Screen Protector. Category: Accessories. Type: Accessory. Franchise: Unavailable. Age rating: Unavailable. Release date: Unavailable. Total sales: 30,000. Available at: Store A, Store C.",
+      "metadata": {
+        "name": "Nintendo Switch Screen Protector",
+        "product_id": 16,
+        "category": "Screen Protector",
+        "main_category": "Accessories",
+        "type": "Accessory",
+        "franchise": null,
+        "min_age": null,
+        "release_date": null,
+        "times_sold": 30000,
+        "times_sold_Store_A": 15000,
+        "times_sold_Store_B": 0,
+        "times_sold_Store_C": 15000,
+        "popularity_rank": 16,
+        "available_stores": [
+          "Store A",
+          "Store C"
+        ],
+        "total_stock": 30000,
+        "is_available": true,
+        "store_strength_Store_A": 0.5,
+        "store_strength_Store_B": 0.0,
+        "store_strength_Store_C": 0.5
+      }
+    }
+  ]
+}
