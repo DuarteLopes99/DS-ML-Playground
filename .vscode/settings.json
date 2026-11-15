@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/winning_onzeprime/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.kernels.excludePythonEnvironments": [],
+  "jupyter.notebookFileRoot": "${fileDirname}"
+}
